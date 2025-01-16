@@ -3,8 +3,8 @@
 ## 1. Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/snakehaihai/RS_Data_Collection_Code
+cd RS_Data_Collection_Code
 ```
 
 ## 2. Install Dependencies
