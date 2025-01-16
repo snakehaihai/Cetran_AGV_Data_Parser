@@ -3,8 +3,8 @@
 ## 1. Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone https://github.com/snakehaihai/RS_Data_Collection_Code
-cd RS_Data_Collection_Code
+git clone https://github.com/snakehaihai/Cetran_AGV_Data_Parser
+cd Cetran_AGV_Data_Parser
 ```
 
 ## 2. Install Dependencies
