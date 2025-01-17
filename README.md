@@ -1,3 +1,5 @@
+This is the deserializer for the AGV data collected from NTU CETRAN center. The data they collected is using Cereal to serialize the data and then save as a log. 
+
 # Build and Run Instructions
 
 ## 1. Clone the Repository
